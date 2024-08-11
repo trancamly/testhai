@@ -1,0 +1,62 @@
+@charset "utf-8";
+
+body{
+	background-image:url("../testanh/sierra-nevada-3840x2160-14543.jpg");
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+#div1{
+	top: 30px;
+	left: 30px;
+	width: 60px;
+	height: 60px;
+	position: fixed;
+	border-radius: 80px;
+	border: solid #696464 3px;
+	padding: auto;
+}
+
+#div1 p{
+	top: 2px;;
+	left: 4px;;
+	width: auto;
+	height: auto;
+	color: rgba(206,144,145,1.00);
+	position: absolute;
+	border: 0;
+	middle: auto;
+	text-align: center;
+}
+
+ul{
+	list-style-type: none;
+	left: 40%;
+	top: 80px;
+	position: absolute;
+}
+
+.container{
+	top: 2px;
+	left: 2px;
+	width: 300px;
+	height: 500px;
+	border-radius: 10px;
+	position: relative;
+	background-color: rgba(225,201,202, 0.6);
+	margin-bottom: 20px;
+}
+
+video{
+	top: 7px;
+	left: 7px;
+	position: absolute;
+	width: 285px;
+	height: 455px;
+}
+
+.container p{
+	top: 457px;
+	left: 15px;
+	position: absolute;
+}

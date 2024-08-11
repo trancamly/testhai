@@ -1,0 +1,39 @@
+@charset "utf-8";
+
+body{
+	background-image:url("../testanh/sierra-nevada-3840x2160-14543.jpg");
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+
+.vidu{
+	width: 200px;
+	height: 50px;
+	left: 45%;
+	top: 200px;
+	z-index: 5;
+	position: relative;
+	border-radius: 10px;
+	border: solid #696464 3px;
+	margin-top: 20px;
+	padding:inherit;
+}
+
+div p{
+	width:auto;
+	height: auto;
+	middle: auto;
+	color: rgba(138,59,60,1.00);
+	border:0px;
+	position: absolute;
+}
+
+#p4{
+	width:auto;
+	height: auto;
+	right: 50px;
+	bottom: 10px;
+	color: #11E6EE;
+	position: fixed;
+}
